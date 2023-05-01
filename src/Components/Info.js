@@ -10,8 +10,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Gulab Jamun",
           "food_item_price": "2.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 218,
@@ -19,8 +23,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Ras Malai",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Desserts",
@@ -38,8 +46,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Chicken",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 189,
@@ -47,8 +59,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Madras Chicken Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 180,
@@ -56,8 +72,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Gongura Egg Masala Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 181,
@@ -65,8 +85,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Ulavacharu Egg Masala Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 179,
@@ -74,8 +98,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Egg Masala Curry",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Lunch",
@@ -93,8 +121,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:23:36.0",
           "food_item_name": "Pepper Chicken",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 142,
@@ -102,8 +134,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:25:07.0",
           "food_item_name": "Karivepaku Chicken (Spicy)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 140,
@@ -111,8 +147,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:24:13.0",
           "food_item_name": "Tawa Chicken Fry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 182,
@@ -120,8 +160,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Chicken",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Non-Veg A La Carte",
@@ -139,8 +183,12 @@ export const navitems = {
           "last_modified_date": "2023-02-26 03:42:14.0",
           "food_item_name": "Samosa Chaat",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "tyu",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 143,
@@ -148,8 +196,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chicken 65 (Dry)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 129,
@@ -157,8 +209,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:07:55.0",
           "food_item_name": "Mini Samosa",
           "food_item_price": "4.99",
+<<<<<<< HEAD
           "food_item_description": "Description testing",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 220,
@@ -166,8 +222,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Samosa",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Snacks",
@@ -185,8 +245,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:41:48.0",
           "food_item_name": "Chicken Lollipops (Dry)",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 131,
@@ -194,8 +258,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:09:20.0",
           "food_item_name": "Paneer 555",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 143,
@@ -203,8 +271,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chicken 65 (Dry)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 144,
@@ -212,8 +284,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:26:22.0",
           "food_item_name": "Chicken 555",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 140,
@@ -221,8 +297,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:24:13.0",
           "food_item_name": "Tawa Chicken Fry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 129,
@@ -230,8 +310,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:07:55.0",
           "food_item_name": "Mini Samosa",
           "food_item_price": "4.99",
+<<<<<<< HEAD
           "food_item_description": "Description testing",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 220,
@@ -239,8 +323,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Samosa",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 133,
@@ -248,8 +336,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:12:35.0",
           "food_item_name": "Baby corn Manchurian",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 128,
@@ -257,8 +349,12 @@ export const navitems = {
           "last_modified_date": "2023-02-26 03:42:14.0",
           "food_item_name": "Samosa Chaat",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "tyu",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Evening Snacks",
@@ -276,8 +372,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:25:53.0",
           "food_item_name": "Chicken Fry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 144,
@@ -285,8 +385,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:26:22.0",
           "food_item_name": "Chicken 555",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 167,
@@ -294,8 +398,12 @@ export const navitems = {
           "last_modified_date": "2023-01-22 03:51:06.0",
           "food_item_name": "Aloo Gobi",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 184,
@@ -303,8 +411,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:27:32.0",
           "food_item_name": "Chicken Tikka Masala",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 143,
@@ -312,8 +424,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chicken 65 (Dry)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 140,
@@ -321,8 +437,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:24:13.0",
           "food_item_name": "Tawa Chicken Fry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 141,
@@ -330,8 +450,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:41:48.0",
           "food_item_name": "Chicken Lollipops (Dry)",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Non-Veg Starter",
@@ -349,8 +473,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Bullet Naan",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 128,
@@ -358,8 +486,12 @@ export const navitems = {
           "last_modified_date": "2023-02-26 03:42:14.0",
           "food_item_name": "Samosa Chaat",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "tyu",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 130,
@@ -367,8 +499,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:08:27.0",
           "food_item_name": "Onion Pakora",
           "food_item_price": "4.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 211,
@@ -376,8 +512,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Parota (2pc)",
           "food_item_price": "2.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Breakfast",
@@ -395,8 +535,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Milk",
           "food_item_price": "2.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 208,
@@ -404,8 +548,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Tandoori Roti",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 141,
@@ -413,8 +561,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:41:48.0",
           "food_item_name": "Chicken Lollipops (Dry)",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 178,
@@ -422,8 +574,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Bhinid Masala",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 223,
@@ -431,8 +587,12 @@ export const navitems = {
           "last_modified_date": "2023-01-23 01:08:33.0",
           "food_item_name": "Aloo Gobi2",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 177,
@@ -440,8 +600,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Bhindi Fry",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 144,
@@ -449,8 +613,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:26:22.0",
           "food_item_name": "Chicken 555",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 199,
@@ -458,8 +626,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Moghalai Goat",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 191,
@@ -467,8 +639,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Mughalai Chicken",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 188,
@@ -476,8 +652,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chicken Chettinadu",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 143,
@@ -485,8 +665,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chicken 65 (Dry)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 209,
@@ -494,8 +678,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chappathi (1pc)",
           "food_item_price": "0.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 157,
@@ -503,8 +691,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:38:46.0",
           "food_item_name": "Ulavacharu Goat Biryani",
           "food_item_price": "11.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 158,
@@ -512,8 +704,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:37:55.0",
           "food_item_name": "Fish Biryani",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 156,
@@ -521,8 +717,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:36:06.0",
           "food_item_name": "Tawa Chicken Fry Biryani",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 153,
@@ -530,8 +730,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:30:52.0",
           "food_item_name": "Vij Spl (Boneless) Chicken Biryani",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 206,
@@ -539,8 +743,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Bullet Naan",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 154,
@@ -548,8 +756,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:29:59.0",
           "food_item_name": "Avakai Chicken Dum Biryani",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 147,
@@ -557,8 +769,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Apolo Fish",
           "food_item_price": "11.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 155,
@@ -566,8 +782,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:37:16.0",
           "food_item_name": "Gongura Chicken Dum Biryani",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 133,
@@ -575,8 +795,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:12:35.0",
           "food_item_name": "Baby corn Manchurian",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 151,
@@ -584,8 +808,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:29:13.0",
           "food_item_name": "Ulavacharu Egg Biryani",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 150,
@@ -593,8 +821,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:28:31.0",
           "food_item_name": "Egg Biryani",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 152,
@@ -602,8 +834,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:39:30.0",
           "food_item_name": "Chicken Dum Biryani",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Biryanis",
@@ -621,8 +857,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Tandoori Roti",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 203,
@@ -630,8 +870,12 @@ export const navitems = {
           "last_modified_date": "2022-09-28 04:53:09.0",
           "food_item_name": "Plain Naan",
           "food_item_price": "1.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 207,
@@ -639,8 +883,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Tandoori Roti",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 205,
@@ -648,8 +896,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Garlic Naan",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 206,
@@ -657,8 +909,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Bullet Naan",
           "food_item_price": "2.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 204,
@@ -666,8 +922,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Naan",
           "food_item_price": "1.49",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 163,
@@ -675,8 +935,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Shrimp Fried Rice",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 212,
@@ -684,8 +948,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Curd Rice",
           "food_item_price": "3.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 161,
@@ -693,8 +961,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:20:42.0",
           "food_item_name": "Chicken Fried Rice",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 162,
@@ -702,8 +974,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Fish Fried Rice",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 160,
@@ -711,8 +987,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Veg Fried Rice",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Naan and Rice",
@@ -730,8 +1010,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Chilli Gobi",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 135,
@@ -739,8 +1023,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:20:05.0",
           "food_item_name": "Chilli Babycorn",
           "food_item_price": "7.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 170,
@@ -789,8 +1077,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Paneer Butter Masala",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 132,
@@ -798,8 +1090,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:19:30.0",
           "food_item_name": "Chilli Paneer",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 165,
@@ -848,8 +1144,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Mutter Paneer",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 131,
@@ -857,8 +1157,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:09:20.0",
           "food_item_name": "Paneer 555",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Veg A La Carte",
@@ -876,8 +1180,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Pepper Goat",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "Taste is super",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 173,
@@ -885,8 +1193,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Saag Paneer",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 157,
@@ -894,8 +1206,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:38:46.0",
           "food_item_name": "Ulavacharu Goat Biryani",
           "food_item_price": "11.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 146,
@@ -903,8 +1219,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Goat Sukha",
           "food_item_price": "11.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 155,
@@ -912,8 +1232,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:37:16.0",
           "food_item_name": "Gongura Chicken Dum Biryani",
           "food_item_price": "10.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 140,
@@ -921,8 +1245,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:24:13.0",
           "food_item_name": "Tawa Chicken Fry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 196,
@@ -930,8 +1258,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Saag Goat",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 187,
@@ -939,8 +1271,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Saag Chicken",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 180,
@@ -948,8 +1284,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Gongura Egg Masala Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 179,
@@ -957,8 +1297,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Egg Masala Curry",
           "food_item_price": "8.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 182,
@@ -966,8 +1310,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Butter Chicken",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 189,
@@ -975,8 +1323,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Madras Chicken Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 202,
@@ -984,8 +1336,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Ulavacharu Goat Curry",
           "food_item_price": "11.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 142,
@@ -993,8 +1349,12 @@ export const navitems = {
           "last_modified_date": "2022-09-10 13:25:07.0",
           "food_item_name": "Karivepaku Chicken (Spicy)",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         },
         {
           "food_item_id": 181,
@@ -1002,8 +1362,12 @@ export const navitems = {
           "last_modified_date": "2022-09-02 20:51:09.0",
           "food_item_name": "Ulavacharu Egg Masala Curry",
           "food_item_price": "9.99",
+<<<<<<< HEAD
           "food_item_description": "",
           "quantity":0
+=======
+          "quantity": 0
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
         }
       ],
       "category_name": "Dinner",

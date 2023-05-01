@@ -40,7 +40,11 @@
 body{
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
 }
 .food{
   height: 97%;
+=======
+  overflow: hidden;
+>>>>>>> 109801f0ffe496b033c5afe1eced321016f061a7
 }
