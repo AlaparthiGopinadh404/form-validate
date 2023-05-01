@@ -18,9 +18,11 @@ function Sidenav({items,index,setIndex}) {
                             </strong>
                             <ul className="li list-unstyled fw-normal mx-2 pb-2 small">
                                 {items && items.map((row,i) => (
-                                    <li className=' d-flex my-3'>
+                                    <li className=' d-flex my-3' key={i}>
                                         <div id="com">
-                                            {index===i?<button onClick={()=>{add(i)}} className='btn btn-primary'>{row?.category_name}</button>:<button onClick={()=>{add(i)}} className='btn btn-outline-primary'>{row?.category_name}</button>}
+                                            {index===i
+                                            ?<button onClick={()=>{add(i)}} className='btn btn-primary'>{row?.category_name}</button>
+                                            :<button onClick={()=>{add(i)}} className='btn btn-outline-primary'>{row?.category_name}</button>}
                                             
                                         </div>
                                     </li>

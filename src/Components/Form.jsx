@@ -1,5 +1,5 @@
 import { Formik, Form, Field, ErrorMessage } from 'formik'
-import React, { useState } from 'react'
+import React, { useState } from 'react'                                                                                                                                                                 
 import { useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import * as Yup from 'yup'
@@ -92,7 +92,7 @@ function Formval() {
                         <ErrorMessage name="district" />
                     </div>
                     <div className="col-md-6 col-sm-12 text-danger mb-3">
-                        <label className='text-black'>District</label>
+                        <label className='text-black'>State</label>
                         <Field type="text" name="state" className="form-control" placeholder="state" />
                         <ErrorMessage name="state" />
                     </div>
